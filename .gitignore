@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+web/.env.local
+web/.env*.local
+cache/
+out/
+broadcast/
+node_modules/
+web/node_modules/
+web/.next/
+*.tsbuildinfo
+next-env.d.ts
+*.log
+.DS_Store
+.opencode/
