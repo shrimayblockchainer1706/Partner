@@ -4,11 +4,14 @@
 
 Built solo for the **SPPU x EFDEVCON Hackathon**. Testnet only — do not use real funds.
 
+**Live demo:** https://partner-drab-seven.vercel.app/ (connect MetaMask on Sepolia)
+
 ## Deployed contract (Sepolia)
 
 - Address: [`0x40fb003cd41e79e4bbc8fb1bb1d84db0459294b2`](https://sepolia.etherscan.io/address/0x40fb003cd41e79e4bbc8fb1bb1d84db0459294b2)
 - Deploy block: `11933764`
 - Explorer: https://sepolia.etherscan.io/address/0x40fb003cd41e79e4bbc8fb1bb1d84db0459294b2
+- Live app: https://partner-drab-seven.vercel.app/
 
 ## The problem
 
